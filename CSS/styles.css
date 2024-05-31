@@ -219,7 +219,10 @@ h1 {
     .product-list {
         grid-template-columns: 1fr;
     }
-
+    .product-img
+    {
+        margin:0;
+    }
     .product {
         width: 100%;
         max-width: none;
