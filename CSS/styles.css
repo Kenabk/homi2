@@ -221,7 +221,7 @@ h1 {
     }
     .product-img
     {
-        margin:0 0 0 -5px;
+        margin-left: -10px;
     }
     .product {
         width: 100%;
