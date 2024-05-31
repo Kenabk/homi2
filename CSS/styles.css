@@ -209,7 +209,7 @@ h1 {
         
     }
 }
-@media (max-width: 370px) {
+@media (max-width: 270px) {
     .head-product {
         font-size: 50px;
         margin: 50px;
