@@ -1,0 +1,77 @@
+.info
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin: 5% 0 0 10%;
+   
+}
+.info-img
+{
+    width: 70%;
+    height: 550px;
+    background-color: blanchedalmond;
+}
+.details
+{
+    text-align: left;
+    margin-left: -20%;
+}
+.info-type
+{
+    margin: 0 20px 40px 0;
+}
+.info-name
+{
+    margin: 20px 0px 50px 0;
+    font-size: 30px;
+    font-weight: 700;
+}
+.money
+{
+    font-size: 18px; 
+    color: rgb(231, 95, 46);
+} span
+{
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0;
+}
+.more-info
+{
+    margin-top: 30px;
+    font-size: 16px;
+    line-height: 30px;
+}
+.contact
+{
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(231, 95, 46);
+}
+.social-logo
+{
+    width: 50px;
+    margin: 20px;
+    margin-left: -40px;
+}
+   /* New CSS for responsiveness */
+   @media only screen and (max-width: 768px) {
+    .info {
+        grid-template-columns: 1fr;
+        margin: 5% 0;
+    }
+    .info-img {
+        width: 80%;
+        margin: 10%;
+        margin-top: 20%;
+        background-color: blanchedalmond;
+    }
+    .details {
+        margin-left: 10%;
+    }
+    .social-logo {
+        margin-left: 0-10%;
+    }
+}
