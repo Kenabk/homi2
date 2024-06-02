@@ -208,11 +208,11 @@ h1 {
 @media (max-width: 470px) 
 {
     .product-list {
-        gap: 1px;
+        gap: 10px;
     }
     .product
     {
-        margin: 0 30px 0 0px;
+        margin: 0 0px 0 10px;
         height:230px;
         width:88%;
     }
