@@ -275,6 +275,7 @@ h1 {
 
     .search-container {
         max-width: 500px;
+        justify-content: center;
     }
 }
 
@@ -304,5 +305,6 @@ h1 {
 
     .search-container {
         max-width: 690px;
+
     }
 }
