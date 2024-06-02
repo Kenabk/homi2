@@ -211,6 +211,10 @@ h1 {
         gap: 10px;
         
     }
+    .product
+    {
+        height:250px;
+    }
 }
 @media (max-width: 270px) {
     .head-product {
