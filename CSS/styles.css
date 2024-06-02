@@ -213,8 +213,12 @@ h1 {
     .product
     {
         margin: 10px;
-        height:250px;
+        height:200px;
+        width:80%;
     }
+    .product-img
+    {
+        height: 180px;
 }
 @media (max-width: 270px) {
     .head-product {
