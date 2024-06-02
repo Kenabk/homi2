@@ -208,17 +208,17 @@ h1 {
 @media (max-width: 470px) 
 {
     .product-list {
-        gap: 20px;
+        gap: 10px;
     }
     .product
     {
-        margin: 10px;
-        height:200px;
-        width:80%;
+        margin: 0 10px 0 10px;
+        height:250px;
+        width:88%;
     }
     .product-img
     {
-        height: 180px;
+        height: 150px;
 }
 @media (max-width: 270px) {
     .head-product {
